@@ -7,7 +7,7 @@ public class TEst : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Console.write("a");
+        Console.write("a");//aaaa
     }
 
     // Update is called once per frame
